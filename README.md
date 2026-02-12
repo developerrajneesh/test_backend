@@ -39,9 +39,11 @@ Default URL: `http://localhost:3001` (configurable via `PORT`)
 
 Backend reads env vars via `dotenv` (`.env`).
 
+### Backend Server
+- `PORT=3001`
 ### MySQL (required)
 
-- `PORT=3001`
+
 - `MYSQL_HOST`
 - `MYSQL_PORT` 
 - `MYSQL_USER`
