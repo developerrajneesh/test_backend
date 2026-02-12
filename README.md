@@ -41,6 +41,7 @@ Backend reads env vars via `dotenv` (`.env`).
 
 ### MySQL (required)
 
+- `PORT=3001`
 - `MYSQL_HOST`
 - `MYSQL_PORT` 
 - `MYSQL_USER`
